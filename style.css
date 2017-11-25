@@ -11,7 +11,10 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.line-block{white-space: pre-line;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
 
 .clear {clear: both;}
 
@@ -119,7 +122,7 @@ section:last-child {
 
 .sectionContent {
 	float: right;
-	width: 72.5%;
+	width: 75%;
 }
 
 .sectionTitle h1 {
