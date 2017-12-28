@@ -122,7 +122,17 @@ section:last-child {
 
 .sectionContent {
 	float: right;
-	width: 77.5%;
+	width: 80%;
+}
+
+.sectionContent2 {
+	float: right;
+	width: 82.5%;
+}
+
+.sectionGrant {
+	float: right;
+	width: 92.5%;
 }
 
 .sectionTitle h1 {
@@ -138,6 +148,13 @@ section:last-child {
 	margin-bottom: -2px;
 }
 
+.sectionContent2 h3 {
+	margin-bottom: 8px;
+}
+
+.sectionContent2 p {
+	width: 87.5%;
+}
 .subDetails {
 	font-size: 0.8em;
 	font-style: italic;
